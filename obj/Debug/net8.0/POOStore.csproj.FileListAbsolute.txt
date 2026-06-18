@@ -1,0 +1,14 @@
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\bin\Debug\net8.0\POOStore.exe
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\bin\Debug\net8.0\POOStore.deps.json
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\bin\Debug\net8.0\POOStore.runtimeconfig.json
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\bin\Debug\net8.0\POOStore.dll
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\bin\Debug\net8.0\POOStore.pdb
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\obj\Debug\net8.0\POOStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\obj\Debug\net8.0\POOStore.AssemblyInfoInputs.cache
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\obj\Debug\net8.0\POOStore.AssemblyInfo.cs
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\obj\Debug\net8.0\POOStore.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\obj\Debug\net8.0\POOStore.dll
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\obj\Debug\net8.0\refint\POOStore.dll
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\obj\Debug\net8.0\POOStore.pdb
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\obj\Debug\net8.0\POOStore.genruntimeconfig.cache
+C:\Users\Rafael Gomes\OneDrive\Documentos\PUC\POO\Trabalho\POOStore\obj\Debug\net8.0\ref\POOStore.dll
